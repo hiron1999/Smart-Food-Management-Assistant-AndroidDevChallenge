@@ -1,4 +1,4 @@
-# Smart-Food-Management-Assistant-AndroidDevChallenge
+# Smart-Food-Management-Assistant
 
 <h1>#AndroidDevChallenge</h1>
 
